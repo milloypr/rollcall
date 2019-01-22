@@ -13,3 +13,4 @@ Name and GitHub username/profile
 * Ian Stewart [ianstewart1](https://github.com/ianstewart1)
 * Kimberly Taylor [kmargtaylor](https://github/kmargtaylor)
 * Gavin James-Beckham [jamesbgd](https://github.com/jamesbgd)
+* Sage Levin [sagelevin](https://github.com/sagelevin)
