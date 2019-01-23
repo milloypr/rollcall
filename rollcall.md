@@ -18,3 +18,4 @@ Name and GitHub username/profile
 * Benjamin Hetter [bhetter](https://github.com/bhetter)
 * Sage Levin [sagelevin](https://github.com/sagelevin)
 * Madi Crowley [mcrowley208](https://github.com/mcrowley208)
+* Paul Milloy [milloypr](https://github.com/milloypr)
